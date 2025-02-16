@@ -38,7 +38,8 @@ npm start
 
 ## Demo
 Check out the demo video to see the Vehicle Builder CLI in action:
-https://www.loom.com/share/ca9d298e7de54277bc1c493419f6fe2b?sid=4e56ee13-1ea0-4768-af55-4b0c8341a50bLinks to an external site.
+
+https://www.loom.com/share/ca9d298e7de54277bc1c493419f6fe2b?sid=4e56ee13-1ea0-4768-af55-4b0c8341a50bLinks
 
 
 ## Features

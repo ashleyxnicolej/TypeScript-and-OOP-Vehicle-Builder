@@ -23,7 +23,7 @@ Vehicle Builder CLI is a TypeScript-based command-line application that allows u
 2. Install the dependencies:
    npm install
    
-4. Compile the TypeScript files:
+6. Compile the TypeScript files:
    npm run build
 
 
@@ -40,8 +40,11 @@ https://www.loom.com/share/ca9d298e7de54277bc1c493419f6fe2b?sid=4e56ee13-1ea0-47
 
 ## Features
 Create and manage different types of vehicles: cars, trucks, and motorbikes.
+
 Store vehicle details such as color, make, model, year, weight, top speed, and towing capacity.
+
 Perform unique actions with each type of vehicle. (e.g. towing capabilitie for trucks). 
+
 Follows best practices built with Object-Oriented Programming (OOP) principles.
 
 

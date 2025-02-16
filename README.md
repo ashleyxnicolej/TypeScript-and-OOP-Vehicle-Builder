@@ -54,9 +54,13 @@ Follows best practices built with Object-Oriented Programming (OOP) principles.
 
 ## Technologies
 TypeScript
+
 Node.js
+
 Inquirer.js
+
 Object-Oriented Programming (OOP) principles
+
 npm for package management
 
 

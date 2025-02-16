@@ -21,15 +21,18 @@ Vehicle Builder CLI is a TypeScript-based command-line application that allows u
    cd TypeScript-and-OOP-Vehicle-Builder
 
 2. Install the dependencies:
+   ```bash
    npm install
    
 6. Compile the TypeScript files:
+   ```bash
    npm run build
 
 
 ## Usage
 To run the Vehicle Builder CLI application, use the following command:
-  npm start
+npm start
+
  Follow the prompts to enter vehicle details and interact with the created vehicles.
 
 

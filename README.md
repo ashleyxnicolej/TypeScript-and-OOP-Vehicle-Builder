@@ -1,6 +1,6 @@
-# TypeScript-and-OOP-Vehicle-Builder
+# TypeScript-and-OOP-Vehicle-Builder 🚗 🚚 🏍️
 
-Vehicle Builder CLI is a TypeScript-based command-line application that allows users to create and interact with different types of vehicles—cars, trucks, and motorbikes. Built with Object-Oriented Programming (OOP) principles, the app lets users enter vehicle details, store them, and perform unique actions with each type. 🚗 🚚 🏍️
+Vehicle Builder CLI is a TypeScript-based command-line application that allows users to create and interact with different types of vehicles—cars, trucks, and motorbikes. Built with Object-Oriented Programming (OOP) principles, the app lets users enter vehicle details, store them, and perform unique actions with each type.
 
 ## Table of Contents
 
@@ -43,25 +43,25 @@ https://www.loom.com/share/ca9d298e7de54277bc1c493419f6fe2b?sid=4e56ee13-1ea0-47
 
 
 ## Features
-Create and manage different types of vehicles: cars, trucks, and motorbikes.
+- Create and manage different types of vehicles: cars, trucks, and motorbikes.
 
-Store vehicle details such as color, make, model, year, weight, top speed, and towing capacity.
+- Store vehicle details such as color, make, model, year, weight, top speed, and towing capacity.
 
-Perform unique actions with each type of vehicle. (e.g. towing capabilitie for trucks). 
+- Perform unique actions with each type of vehicle. (e.g. towing capabilitie for trucks). 
 
-Follows best practices built with Object-Oriented Programming (OOP) principles.
+- Follows best practices built with Object-Oriented Programming (OOP) principles.
 
 
 ## Technologies
-TypeScript
+- TypeScript
 
-Node.js
+- Node.js
 
-Inquirer.js
+- Inquirer.js
 
-Object-Oriented Programming (OOP) principles
+- Object-Oriented Programming (OOP) principles
 
-npm for package management
+- npm for package management
 
 
 ## Troubleshooting
@@ -80,6 +80,3 @@ Contributions are welcome! Please follow these steps to contribute:
 
 ## License
 This project is open-source and available under the MIT License. See the LICENSE file for details.
-
-
-Feel free to customize this README to better fit your project and preferences.
